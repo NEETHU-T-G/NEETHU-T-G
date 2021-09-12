@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.pixabay.com/photo/2021/08/09/08/38/cloud-6532831_960_720.jpg)
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1966439/screenshots/10874754/media/7a779502b1a61c0a343cbe8862ae9fdb.gif">
 
 - 👨‍💻 All of my projects are available at [https://neethu-t-g.github.io/neethuportfolio.github.io](https://neethu-t-g.github.io/neethuportfolio.github.io)
