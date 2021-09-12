@@ -1,5 +1,5 @@
 
-<imgalign="right" alt="coding" width="400" src="https://dribbble.com/shots/10874754-Work-Hard">
+
 - 👨‍💻 All of my projects are available at [https://neethu-t-g.github.io/neethuportfolio.github.io](https://neethu-t-g.github.io/neethuportfolio.github.io)
 
 - 📫 How to reach me **neethusemails@gmail.com**
