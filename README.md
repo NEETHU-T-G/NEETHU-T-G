@@ -1,5 +1,4 @@
-<img align="center" src="https://www.pexels.com/photo/white-and-brown-mountain-under-gray-clouds-5409751/">
-<h1 align="center">Hi 👋, I'm Neethu George</h1>
+
 <imgalign="right" alt="coding" width="400" src="https://dribbble.com/shots/10874754-Work-Hard">
 - 👨‍💻 All of my projects are available at [https://neethu-t-g.github.io/neethuportfolio.github.io](https://neethu-t-g.github.io/neethuportfolio.github.io)
 
