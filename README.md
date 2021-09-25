@@ -12,7 +12,7 @@ I love working with different technologies & platforms and my current favorite o
 #### 📬 Find me at
 
 [![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/app/profile/neethu4622)](https://public.tableau.com/app/profile/neethu4622)
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/NEETHU-T-G)](https:https://github.com/NEETHU-T-G) 
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/NEETHU-T-G)](https://github.com/NEETHU-T-G) 
 
 
 <h3 align="left">Languages and Tools:</h3>
