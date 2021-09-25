@@ -3,7 +3,7 @@ I love working with different technologies & platforms and my current favorite o
 - :heart: Python
 - :heart: Tableau
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1966439/screenshots/10874754/media/7a779502b1a61c0a343cbe8862ae9fdb.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/170025/screenshots/10828306/media/d1326ece332c3a9673fa8ba8c3f962f2.gif">
 
 - 👨‍💻 All of my projects are available at [https://neethu-t-g.github.io/neethuportfolio.github.io](https://neethu-t-g.github.io/neethuportfolio.github.io)
 
